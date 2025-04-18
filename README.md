@@ -2,5 +2,6 @@ This is MOPSO, a toolbox for multi-objective particle swarm optimization under u
 Contributions are welcome. Feel free to contact me for code fixes and debugging.
 
 Amirsaman Rezaeyan\
+Calgary, Canada\
 amirsaman[dot]rezaeyan[at sign]gmail[dot]com\
 Mar 2024 - Dec 2024. All rights reserved.
