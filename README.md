@@ -2,3 +2,7 @@ This is MOPSO, a toolbox for multi-objective particle swarm optimization under u
 Contributions are welcome. Feel free to contact me for code fixes and debugging.\
 Built between Mar 2024 - Dec 2024.\
 **Author: Amirsaman Rezaeyan**
+
+---
+Cite as:\
+Rezaeyan A. MOPSO: a Multi-Objective Particle Swarm Optimization Tool in Python with Function Evaluations Through Reservoir Simulators. 2024. https://github.com/EarthSciTech/MOPSO
