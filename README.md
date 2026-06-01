@@ -5,4 +5,4 @@ Built between Mar 2024 - Dec 2024.\
 
 ---
 Cite as:\
-Rezaeyan A. MOPSO: a Multi-Objective Particle Swarm Optimization Tool in Python with Function Evaluations Through Reservoir Simulators. 2024. https://github.com/EarthSciTech/MOPSO
+Amirsaman Rezaeyan, 2024, MOPSO: a Multi-Objective Particle Swarm Optimization Tool in Python with Function Evaluations Through Reservoir Simulators. https://github.com/EarthSciTech/MOPSO
